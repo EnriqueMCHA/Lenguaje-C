@@ -1,12 +1,12 @@
 /*
-Se ingresa la edad y el sexo (f=femenino – m=masculino) de 10 socios de
+Se ingresa la edad y el sexo (f=femenino â€“ m=masculino) de 10 socios de
 un club. Se pide informar:
 a) Porcentaje de socios de sexo masculinos.
 b) Cantidad de socios de sexo femenino.
-c) Sabiendo que los socios son “Mayores” cuando la edad es mayor o igual a 21
-años. “Juveniles”, cuando la edad es menor de 21 y mayor o igual a 16 años.
-Son “Cadetes” cuando la edad es menor de 16 y mayor o igual a 12 años.
-Informar: Cantidad de socios “Mayores”, “Juveniles” y “Cadetes”.
+c) Sabiendo que los socios son â€œMayoresâ€ cuando la edad es mayor o igual a 21
+aÃ±os. â€œJuvenilesâ€, cuando la edad es menor de 21 y mayor o igual a 16 aÃ±os.
+Son â€œCadetesâ€ cuando la edad es menor de 16 y mayor o igual a 12 aÃ±os.
+Informar: Cantidad de socios â€œMayoresâ€, â€œJuvenilesâ€ y â€œCadetesâ€.
 */
 
 #include <stdio.h>
